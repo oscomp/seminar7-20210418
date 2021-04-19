@@ -17,7 +17,7 @@
 
 2021年04月11日14:00-18:00
 
-| 报告人 | 标题                              | 幻灯片([访问帮助](https://cloud.tsinghua.edu.cn/lib/12eeaa9e-cbff-4532-91ff-6a488f9b868c/file/20210110-回看研讨会报告视频的方法.pdf)) | 视频 |
+| 报告人 | 标题                              | 幻灯片(访问帮助：[gitee](https://gitee.com/oscomp/seminar0-20201226/blob/main/20210110-tencent-help.pdf)、[github](https://github.com/oscomp/seminar0-20201226/blob/main/20210110-tencent-help.pdf)) | 视频 |
 | ------ | --------------------------------- | ------------------------------------------------------------ | ---- |
 | 国科环宇 周洲仪 | 操作系统崩溃问题追踪及性能问题追踪 | [pptx](https://lexiangla.com/teams/k100041/docs/ac8609fca02011eb82c8629a399b4f7f?company_from=79350bd4d06911ea91f05254002f1020) |      |
 | 华中科大 陆思彤、刘一鸣、蒋周奇 | xv6-k210简单指南 | [pdf](https://lexiangla.com/teams/k100041/docs/c8a31288a02011eb8cd68aabac7c6131?company_from=79350bd4d06911ea91f05254002f1020) |      |
